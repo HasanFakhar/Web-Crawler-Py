@@ -20,3 +20,7 @@ cd neuralcrawling
  scrapy crawl mycrawler -o output.json
 
 ```
+
+
+this will create an `output.json` file which contains a json object with properties of books from `books.toscrape.com`
+
