@@ -1,5 +1,11 @@
 # Web-Crawler-Py
 
+this project is built using the python framework, Scrapy.
+
+
+
+Scrapy is a fast high-level web crawling and web scraping framework, used to crawl websites and extract structured data from their pages.
+
 ## to activate web crawler
 
 
